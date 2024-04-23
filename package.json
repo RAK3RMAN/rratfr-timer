@@ -30,7 +30,7 @@
     "express-openid-connect": "^0.6.0",
     "express-rate-limit": "^3.4.0",
     "express-session": "^1.15.6",
-    "formidable": "^1.2.1",
+    "formidable": "^3.2.4",
     "fs": "0.0.1-security",
     "helmet": "^3.21.1",
     "http": "0.0.0",
