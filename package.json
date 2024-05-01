@@ -24,7 +24,7 @@
     "connect-multiparty": "^2.2.0",
     "cookie-parser": "^1.4.4",
     "data-store": "^3.1.0",
-    "ejs": "^2.6.1",
+    "ejs": "^3.1.10",
     "express": "^4.17.1",
     "express-fileupload": "^1.4.0",
     "express-openid-connect": "^0.6.0",
